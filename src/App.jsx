@@ -2,7 +2,7 @@ import { useContext } from 'react';
 import { Routes, Route, useLocation } from 'react-router-dom';
 import { ThemeProvider } from 'styled-components';
 import { AnimatePresence } from 'framer-motion';
-import './app.css';
+import './Index.css';
 
 import GlobalStyle from './styles/globalStyles';
 import Header from './components/Header/Header';
